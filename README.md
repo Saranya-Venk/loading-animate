@@ -19,8 +19,9 @@ A sleek, animated **CSS Loading Spinner** built with pure HTML and CSS. This ani
 **loading spinner preview**
 ![Image](https://github.com/user-attachments/assets/8ad612e8-8174-48ef-bd1d-c0a98a20832b)
 
-## live Demo 
-Link : https://saranya-venk.github.io/loading-animate/
+---
+## Live Demo
+**Link :** https://saranya-venk.github.io/loading-animate/
 ---
 
 ## 🚀 How to Use
